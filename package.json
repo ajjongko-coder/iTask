@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.2",
+    "axios": "^1.7.8",
+    "bootstrap": "^5.3.3",
+    "pinia": "^2.2.8"
+  }
+}
